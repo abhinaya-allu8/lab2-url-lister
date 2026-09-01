@@ -1,2 +1,6 @@
 input/
 output/
+.ipynb_checkpoints/
+Untitled.ipynb
+*.jar
+stream-output/
