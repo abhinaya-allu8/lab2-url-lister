@@ -159,4 +159,3 @@ This demonstrates that adding more machines does not automatically make a distri
 ## Collaboration
 
 I completed the implementation independently.
-EOF
